@@ -1,1 +1,1 @@
-See [Telescope documentation](http://telesc.pe/docs/adding-lenses/).
+See [Telescope documentation](http://telesc.pe/docs/adding-views/).
